@@ -4,7 +4,7 @@
     "Name": "str_FileNameInput",
     "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
     "UnresolvedTypeFullyQualifiedName": null,
-    "Expression": "\"Etat des rubriques 09 25.pdf\"",
+    "Expression": "\"Etat des rubriques.pdf\"",
     "IsLiteral": false
   }
 ]
